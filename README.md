@@ -9,8 +9,11 @@ hello-blog 是一个基于 Go 语言开发的简单博客系统。该项目采�
 - 日志中间件，记录请求信息和响应时间
 - 优雅的服务器启动和关闭
 - 模块化路由管理
+- 客户端 IP 地址识别
 
 当前版本：v0.0.1
+
+项目仓库：[git@github.com:xgjxw/hello-blog.git](https://github.com/xgjxw/hello-blog)
 
 ## 项目路由
 
